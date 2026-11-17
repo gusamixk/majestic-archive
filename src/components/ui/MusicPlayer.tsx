@@ -10,11 +10,13 @@ export function MusicPlayer() {
   useEffect(() => {
     const startOnFirstClick = () => {
       const audio = audioRef.current;
-      if (audio && audio.paused) {
+      if (audio?.paused) {
         audio
           .play()
           .then(() => setIsPlaying(true))
-          .catch(() => {});
+          .catch(() => {
+            // Autoplay diblokir browser, abaikan
+          });
       }
       window.removeEventListener("click", startOnFirstClick);
     };
