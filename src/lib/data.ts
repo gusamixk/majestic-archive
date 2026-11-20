@@ -223,7 +223,7 @@ export const PROFILES: Profile[] = [
   { id: 19, name: "Salman", role: "Majestic · CTC Era", quote: "Your past doesn’t define your future", avatar: "/images/member/salman.jpg" },
   { id: 20, name: "Risma", role: "Majestic · CTC Era", quote: "Make memories, not excuses.", avatar: "/images/member/risma.jpg" },
   { id: 21, name: "Rizka", role: "Majestic · CTC Era", quote: "Won't give up, won't stop believing, I just keep on chasing that feeling.", avatar: "/images/member/riska.jpg" },
-  { id: 22, name: "Yudha", role: "Majestic · CTC Era", quote: "I hope I mattered", avatar: "/images/member/yuda.jpg" },
+  { id: 22, name: "Yudha", role: "Majestic · CTC Era", quote: "I hope I mattered", avatar: "/images/member/Yuda.jpg" },
   { id: 23, name: "Alnaha", role: "Majestic · CTC Era", quote: "Don’t plan everything, because sometimes the unplanned turns out to be even more beautiful", avatar: "/images/member/alnaha.jpg" },
   { id: 24, name: "Dhani", role: "Majestic · CTC Era", quote: "Everything you lose is a step you take, and be the reason someone smiles today.", avatar: "/images/member/dani.jpg" },
   { id: 25, name: "Prof. Rusydi", role: "Majestic · CTC Era", quote: "The birds that flock together have the same feathers", avatar: "/images/member/rusydi.jpg" },
@@ -231,6 +231,7 @@ export const PROFILES: Profile[] = [
   { id: 27, name: "Raffi", role: "Majestic · CTC Era", quote: "Do something today that your future self will thank you for", avatar: "/images/member/rafi.jpg" },
   { id: 28, name: "Wildan", role: "Majestic · CTC Era", quote: "Small, consistent steps are far better than running fast and then stopping.", avatar: "/images/member/wildan.jpg" },
   { id: 29, name: "Ilham", role: "Majestic · CTC Era", quote: "Mistakes are the proof that you are trying", avatar: "/images/member/ilham.jpg" },
+  { id: 30, name: "Rina", role: "Majestic · CTC Era", quote: "Everyday is a new chance to improve", avatar: "/images/member/rina.jpg" },
 ];
 
 // ==========================================
